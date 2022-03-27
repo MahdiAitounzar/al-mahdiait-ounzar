@@ -33,7 +33,7 @@
     }
     .main-heading p{
         width: 550px;
-        margin: 0 auto 80px;
+        margin: 0 auto 60px;
         max-width: 100%;
         line-height: 2;
         color: #777;
@@ -302,6 +302,7 @@
         }
         .services .container-services .srv-box .text p{
             padding-left: 20px;
+            text-align: center;
         }
         .services .container-services .srv-box .text h3{
             text-align: center;
